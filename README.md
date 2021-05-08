@@ -1,4 +1,5 @@
 # newsapp
+using Dio package and Bloc statemangment 
 
 A new Flutter application.
 
